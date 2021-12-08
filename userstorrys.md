@@ -19,26 +19,18 @@
 |Schätzung| |
 |Priorität| |
 
-|Titel |Modus: Speed |
+|Titel |Modus: Speed|
 | -------- |:----------------------------------------------|
 |Beschreibung | Speed: Landschaft -> Bildschirm bewegt sich immer weiter zunehmen schneller. Hindernisse in der Landschaft, Sprunghindernisse, etc	Für Spieler endet Level, wenn er nicht mehr mitkommt und außerhalb des sichtbaren Bereichs gerät (Schlucht, zu langsam, etc.)Für Teammodus: last man standing Keine direkte Spielerinteraktion Turniermodus, Belohnung nach Zeit, kann Verbesserungen kaufen? Ist nur für das jeweilige Turnier gültig Für gewonnenes Turnier gibt's eine Anzahl Münzen für die wiederum generell für den Avatar etwas gekauft werden kann.
-
 |Schätzung| |
-|Priorität| |
+|Priorität| 20|
 
-
-
-|Titel |Modus Quest |
-| -------- |:----------------------------------------------|
-|Beschreibung | Aufgaben, die man ausführen kann Feste Welt wird angezeigt, man kann nicht raus. Z.B: Sammle gewisse Anzahl Münzen ein, Schubse gewisse Anzahl (Player) von Figuren vom Spielfeld Hier findet Spielerinteraktion statt (schubsen, abschiessen). Gewonnen hat wer aktuellen Quest als erster abgeschlossen hat. Belohnung Anzahl Münzen je nachdem wieviel gesammelt, geschubst, etc.
-|Schätzung| |
-|Priorität| |
 
 |Titel | Modus Schnellster gewinnt|
 | -------- |:----------------------------------------------|
 |Beschreibung |Wer am schnellsten ist gewinnt, ein Level wird durchgerannt, Hindernisse müssen überwunden werden.Keine Spielerinteraktionen, Modus Splitscreen 1 bis 4 Spieler, Gewinn einer bestimmten Anzahl Münzen bei erster im Ziel,Weitere Münzen im Level abzugreifen.
 |Schätzung| |
-|Priorität| |
+|Priorität| 50|
 
 |Titel | Setting/Theme |
 | -------- |:----------------------------------------------|
@@ -141,3 +133,10 @@
 |Beschreibung | z. B.|
 |Schätzung| vorschlag |
 |Priorität| 22 |
+
+## Zurückgestelte Userstorrys
+|Titel |Modus Quest |
+| -------- |:----------------------------------------------|
+|Beschreibung | Aufgaben, die man ausführen kann Feste Welt wird angezeigt, man kann nicht raus. Z.B: Sammle gewisse Anzahl Münzen ein, Schubse gewisse Anzahl (Player) von Figuren vom Spielfeld Hier findet Spielerinteraktion statt (schubsen, abschiessen). Gewonnen hat wer aktuellen Quest als erster abgeschlossen hat. Belohnung Anzahl Münzen je nachdem wieviel gesammelt, geschubst, etc.
+|Schätzung| |
+|Priorität| |
